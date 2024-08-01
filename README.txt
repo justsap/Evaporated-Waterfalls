@@ -1,6 +1,6 @@
 Datapack Created by JustSap!
 
-CONTENT AGREEMENT: Creative Commons 4.0
+CONTENT AGREEMENT: Creative Commons Attribution 4.0 International
 
 --------------------------------------
 
