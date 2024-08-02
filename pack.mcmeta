@@ -1,6 +1,12 @@
 {
     "pack": {
         "pack_format": 48,
-        "description": "Evaporated Waterfalls [v1.0.0] by JustSap"
+    	"supported_formats": {
+      		"min_inclusive": 18,
+      		"max_inclusive": 48
+    	},
+        "authors": "JustSap",
+        "version": "1.0.1",
+        "description": "A world gen datapack by JustSap [v1.0.1]"
     }
 }
