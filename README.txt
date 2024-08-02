@@ -11,7 +11,7 @@ y-level 160. And to match, lava streams (aka lavafalls), have also been reduced 
 This reduces the likelyhood of waterfalls & lava streams flooding areas and ruin good-looking terrain. As well as reducing the amount of lava streams that lead to forest fires.
 
 --------------------------------------
-Official Links (as of July 2024)
+Official Links (as of August 2024)
 Modrinth: https://modrinth.com/datapack/evaporated-waterfalls
 Github: https://github.com/justsap/Evaporated-Waterfalls
 
